@@ -1,0 +1,59 @@
+body{ 
+background:grey;
+}
+.heather img 
+{width:10%;
+}
+.slider img 
+{width:100%;
+}
+.container
+{
+border-radius:15px;	background:white;width:95%;margin:center;
+}
+
+.menu
+{ 
+float:right;
+}
+
+.menu li
+{
+	display:inline-block;margin-right:8px;color: #522900;
+}
+
+.top a:hover
+{ 
+  background-color:green;
+  transition: .3s ease all;
+  cursor:pointer;
+}
+.
+.row
+{ color:brown;
+}
+
+.col
+{display:inline-block;width:30%; color : #804000 ;
+	
+}
+
+.col h2
+{
+   color:Green; 
+   font-size:20px;
+   font-family:Courier;
+   font-weight:bold;
+   font-style:italic;
+   line-height:30px;
+   letter-spacing:5px;
+   text-decoration:underline;
+   text-transform:capitalize;
+   text-align:left;
+   text-indent:30px;
+}
+
+.footer
+{ overflow: hidden; 
+}
+
